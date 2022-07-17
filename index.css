@@ -26,3 +26,8 @@ header{
 .nav ul li{
     list-style: none;
 }
+.milk-production{
+    width: 100vw;
+    height: auto;
+    margin-top: 100%;
+}
